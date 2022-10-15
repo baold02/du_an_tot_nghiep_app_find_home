@@ -3,7 +3,45 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/du_an_tot_nghiep/app/src/main/res/drawable/cursor_edittext.xml" value="0.188" />
+        <entry key="..\:/du_an_tot_nghiep/app/src/main/res/drawable/custom_background_navigation.xml" value="0.1" />
+        <entry key="..\:/du_an_tot_nghiep/app/src/main/res/drawable/custom_button_call_room_detail.xml" value="0.1" />
+        <entry key="..\:/du_an_tot_nghiep/app/src/main/res/drawable/custom_button_check_map_detail.xml" value="0.1" />
+        <entry key="..\:/du_an_tot_nghiep/app/src/main/res/drawable/custom_button_delete_room.xml" value="0.1" />
+        <entry key="..\:/du_an_tot_nghiep/app/src/main/res/drawable/custom_button_face.xml" value="0.1" />
+        <entry key="..\:/du_an_tot_nghiep/app/src/main/res/drawable/custom_button_gray.xml" value="0.1" />
+        <entry key="..\:/du_an_tot_nghiep/app/src/main/res/drawable/custom_button_login.xml" value="0.188" />
+        <entry key="..\:/du_an_tot_nghiep/app/src/main/res/drawable/custom_button_signup.xml" value="0.188" />
+        <entry key="..\:/du_an_tot_nghiep/app/src/main/res/drawable/custom_button_submit.xml" value="0.1" />
+        <entry key="..\:/du_an_tot_nghiep/app/src/main/res/drawable/custom_button_verify.xml" value="0.1" />
+        <entry key="..\:/du_an_tot_nghiep/app/src/main/res/drawable/custom_checkbox_arcondition.xml" value="0.1" />
+        <entry key="..\:/du_an_tot_nghiep/app/src/main/res/drawable/custom_checkbox_search.xml" value="0.1" />
+        <entry key="..\:/du_an_tot_nghiep/app/src/main/res/drawable/custom_circle_avatar_personal_page.xml" value="0.1" />
+        <entry key="..\:/du_an_tot_nghiep/app/src/main/res/drawable/custom_circle_avatar_room_detail.xml" value="0.188" />
+        <entry key="..\:/du_an_tot_nghiep/app/src/main/res/drawable/custom_circle_button.xml" value="0.1" />
+        <entry key="..\:/du_an_tot_nghiep/app/src/main/res/drawable/custom_circle_green_room_detail.xml" value="0.188" />
+        <entry key="..\:/du_an_tot_nghiep/app/src/main/res/drawable/custom_circle_orange_room_detail.xml" value="0.188" />
+        <entry key="..\:/du_an_tot_nghiep/app/src/main/res/drawable/custom_circle_red_room_detail.xml" value="0.188" />
+        <entry key="..\:/du_an_tot_nghiep/app/src/main/res/drawable/custom_edit_text_login.xml" value="0.188" />
+        <entry key="..\:/du_an_tot_nghiep/app/src/main/res/drawable/custom_layout_manager.xml" value="0.1" />
+        <entry key="..\:/du_an_tot_nghiep/app/src/main/res/drawable/custom_location.xml" value="0.1" />
+        <entry key="..\:/du_an_tot_nghiep/app/src/main/res/drawable/custom_main.xml" value="0.1" />
+        <entry key="..\:/du_an_tot_nghiep/app/src/main/res/drawable/custom_radio_button_gender.xml" value="0.1" />
+        <entry key="..\:/du_an_tot_nghiep/app/src/main/res/drawable/custom_radio_text_color.xml" value="0.1" />
+        <entry key="..\:/du_an_tot_nghiep/app/src/main/res/drawable/custom_rim.xml" value="0.1" />
+        <entry key="..\:/du_an_tot_nghiep/app/src/main/res/drawable/custom_rim_1.xml" value="0.1" />
+        <entry key="..\:/du_an_tot_nghiep/app/src/main/res/drawable/custom_spinner_rim.xml" value="0.188" />
+        <entry key="..\:/du_an_tot_nghiep/app/src/main/res/drawable/custom_user_comment.xml" value="0.188" />
+        <entry key="..\:/du_an_tot_nghiep/app/src/main/res/drawable/custom_user_room.xml" value="0.188" />
+        <entry key="..\:/du_an_tot_nghiep/app/src/main/res/drawable/custom_user_view.xml" value="0.1" />
+        <entry key="..\:/du_an_tot_nghiep/app/src/main/res/drawable/custom_vertical_line.xml" value="0.1" />
+        <entry key="..\:/du_an_tot_nghiep/app/src/main/res/drawable/ic_svg_facebook_100.xml" value="0.1" />
+        <entry key="..\:/du_an_tot_nghiep/app/src/main/res/drawable/ic_svg_google_100.xml" value="0.1" />
+        <entry key="..\:/du_an_tot_nghiep/app/src/main/res/layout/activity_login.xml" value="0.1" />
         <entry key="..\:/du_an_tot_nghiep/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/du_an_tot_nghiep/app/src/main/res/layout/activity_sigin.xml" value="0.1" />
+        <entry key="..\:/du_an_tot_nghiep/app/src/main/res/layout/activity_singup.xml" value="0.16666666666666666" />
+        <entry key="..\:/du_an_tot_nghiep/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
       </map>
     </option>
   </component>
